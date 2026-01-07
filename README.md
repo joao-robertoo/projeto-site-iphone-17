@@ -41,7 +41,7 @@ SITE-IPHONE-17-PRO
 │ 
 ├── .gitattributes
 ├── LICENSE
-├── gitignore
+├── .gitignore
 ├── eslint.config.js
 ├── index.html
 ├── package.json
