@@ -38,11 +38,14 @@ SITE-IPHONE-17-PRO
 │   ├── index.css
 │   ├── App.jsx
 │   └── main.jsx
-│
+│ 
+├── .gitattributes
+├── LICENSE
+├── gitignore
+├── eslint.config.js
 ├── index.html
 ├── package.json
 ├── package-lock.json
-├── tailwind.config.js
 ├── vite.config.js
 └── README.md                # Documentação do projeto
 </pre>        
